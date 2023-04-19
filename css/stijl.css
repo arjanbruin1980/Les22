@@ -2,16 +2,9 @@
     background-color: red;
     }
 
-legend {
-        display: inline;
-        padding: 20px;
-        margin: 0;
-        font-size: medium;
-        line-height: normal;
-        color: blue;
-        border: 2;
-        border-bottom: none;
-      }    
+h3 {
+    color: blue;
+    }    
 
 #footer {
     height: 200px;
